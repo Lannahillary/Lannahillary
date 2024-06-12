@@ -1,5 +1,5 @@
-### Boas vindas ao meu perfil 🩷🩷
-Meu nome é Lann Hillary
+### Boas vindas ao meu perfil 💕💕
+Meu nome é Lanna Hillary
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
